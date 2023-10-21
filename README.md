@@ -4,7 +4,7 @@
 </div>
 
 👦🏽- Ravel Medeiros <br>
-🎇- 19 Anos <br>
+🎇- 20 Anos <br>
 📍- Cuiabá, Mato Grosso - Brazil <br>
 📚- Análise e Desenvolvimento de Sistemas <br>
 👨🏽‍💻- Front-End <br>
