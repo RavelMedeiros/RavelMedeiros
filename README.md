@@ -44,7 +44,7 @@ contact: ravel.medeiro@gmail.com
 
 ### QA & Testing
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" height="48" width="48" alt="playwright" /> <img src="https://skillicons.dev/icons?i=cypress,selenium,postman,jest" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" height="44" width="44" alt="playwright" /> <img src="https://skillicons.dev/icons?i=cypress,selenium,postman,jest" />
 </p>
 
 ### Frontend
@@ -75,7 +75,6 @@ contact: ravel.medeiro@gmail.com
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="44" />
   <img src="https://cdn.simpleicons.org/ollama" width="44" />
   <img src="https://cdn.simpleicons.org/huggingface" width="44" />
-  <img src="https://cdn.simpleicons.org/openai" width="44" />
   <img src="https://cdn.simpleicons.org/anthropic" width="44" />
 </p>
 
