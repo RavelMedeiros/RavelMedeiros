@@ -29,6 +29,9 @@ contact: ravel.medeiros@icloud.com
   <a href="mailto:ravel.medeiro@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
+  <a href="https://portfolio.ravvi.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  </a>
 </p>
 
 <!-- ============================================= -->
